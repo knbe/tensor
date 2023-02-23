@@ -1,0 +1,2 @@
+Work in progress: a tensor library for expressing coordinate invariant
+equations. Intended use is computational fluid dynamics (stress tensors, etc).
